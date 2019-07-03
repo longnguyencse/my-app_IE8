@@ -31,7 +31,10 @@
               "src/styles.sass"
             ],
             "scripts": [
-              "node_modules/jspdf/dist/jspdf.min.js"
+              "node_modules/jspdf/dist/jspdf.min.js",
+              "src/assets/fonts/MPLUS1p-Bold-bold.js",
+              "src/assets/fonts/Kosugi-Regular-normal.js",
+              "src/assets/fonts/KosugiMaru-Regular-normal.js"
             ]
           },
           "configurations": {
